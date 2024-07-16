@@ -45,3 +45,11 @@ This project aims to collect comprehensive data from YouTube channels, videos, p
 - **Interactive Visualization**: Uses Plotly and Streamlit to create interactive visualizations and reports, enabling users to gain insights into YouTube channel performance and video engagement.
 - **Querying Capabilities**: Supports predefined SQL queries to extract specific insights and generate reports based on stored YouTube data.
 - **User-Friendly Interface**: Provides a user-friendly interface through Streamlit for entering channel IDs, visualizing data, and querying stored information.
+
+## PIP INSTALL
+- !pip install google-api-python-client
+- !pip install streamlit
+- !pip install pandas
+- !pip install isodate
+- !pip install streamlit-option-menu
+- !pip install plotly
